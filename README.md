@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/syed-ruidar-ali-shah-760290379/">LinkedIn</a> •
   <a href="https://www.instagram.com/ruiecomexpert/">Instagram</a> •
   <a href="https://www.tiktok.com/@ruiecomexpert">TikTok</a> •
-  📧 riderff22@gmail.com •
-  📞 +92 348 990 7761
+  <a href="https://wa.me/923489907761">WhatsApp</a> •
+  📧 riderff22@gmail.com
 </p>
 
 ---
@@ -47,7 +47,7 @@ I build Shopify stores that don't just look good — they **convert visitors int
 - ✅ WhatsApp order integration
 - ✅ Custom comparison tables
 
-📁 [View Store Screenshots](./beauty-focuss/)
+![Beauty Focuss Store](./Health%20%26%20Beauty%20niche%20store.png)
 
 ---
 
@@ -59,7 +59,7 @@ I build Shopify stores that don't just look good — they **convert visitors int
 - ✅ Comparison table vs competitors
 - ✅ Urgency & scarcity elements
 
-📁 [View Store Screenshots](./bloomica-glow/)
+![Bloomica Glow Store](./One_Product_store_.png)
 
 ---
 
@@ -71,7 +71,7 @@ I build Shopify stores that don't just look good — they **convert visitors int
 - ✅ Sale countdown timers
 - ✅ Mobile-optimized design
 
-📁 [View Store Screenshots](./qumash-albayt/)
+![Qumash Albayt Store](./Shopify%20Ecommer%20website%20.png)
 
 ---
 
@@ -83,7 +83,7 @@ I build Shopify stores that don't just look good — they **convert visitors int
 - ✅ Flash sale banners
 - ✅ Trust-building sections
 
-📁 [View Store Screenshots](./trezora-store/)
+![Trezora Store](./Website.png)
 
 ---
 
@@ -102,6 +102,6 @@ I build Shopify stores that don't just look good — they **convert visitors int
 
 Got a store idea or need more sales? Let's talk!
 
-📧 riderff22@gmail.com | rui.shop.official@gmail.com
-📞 +92 348 990 7761
+📧 [riderff22@gmail.com](mailto:riderff22@gmail.com) | [rui.shop.official@gmail.com](mailto:rui.shop.official@gmail.com)
+📞 <a href="https://wa.me/923489907761">+92 348 990 7761 (WhatsApp)</a>
 💼 [LinkedIn — Syed Ruidar Ali Shah](https://www.linkedin.com/in/syed-ruidar-ali-shah-760290379/)
