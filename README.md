@@ -47,7 +47,7 @@ I build Shopify stores that don't just look good — they **convert visitors int
 - ✅ WhatsApp order integration
 - ✅ Custom comparison tables
 
-![Beauty Focuss Store](./Health%20%26%20Beauty%20niche%20store.png)
+🖼️ [Preview 1 — Store Overview](./Health%20%26%20Beauty%20niche%20store.png) | [Preview 2 — Product Page](./Product%20page%20optimization.png)
 
 ---
 
@@ -59,7 +59,7 @@ I build Shopify stores that don't just look good — they **convert visitors int
 - ✅ Comparison table vs competitors
 - ✅ Urgency & scarcity elements
 
-![Bloomica Glow Store](./One_Product_store_.png)
+🖼️ [Preview — Store Design](./rui%20shoopify%20developer.png)
 
 ---
 
@@ -71,7 +71,7 @@ I build Shopify stores that don't just look good — they **convert visitors int
 - ✅ Sale countdown timers
 - ✅ Mobile-optimized design
 
-![Qumash Albayt Store](./Shopify%20Ecommer%20website%20.png)
+🖼️ [Preview 1 — Homepage](./Shopify%20Ecommer%20website%20.png) | [Preview 2 — Product Page](./Product%20page%20optimization.png)
 
 ---
 
@@ -83,7 +83,7 @@ I build Shopify stores that don't just look good — they **convert visitors int
 - ✅ Flash sale banners
 - ✅ Trust-building sections
 
-![Trezora Store](./Website.png)
+🖼️ [Preview 1 — Homepage](./Web%20design.png) | [Preview 2 — Speed Optimized](./Product%20page%20Speed%20optimization.png)
 
 ---
 
